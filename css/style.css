@@ -2,7 +2,7 @@ a {
   color: #212121;
 }
 body {
-  font-family: Roboto, Arial;
+  font-family: Roboto, sans-serif;
   font-style: normal;
   text-decoration: none;
   color: #212121;
@@ -48,6 +48,13 @@ nav ul :hover {
 }
 body a {
   text-decoration: none;
+}
+.mail {
+  color: #2196f3;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
 }
 .contacts a:hover {
   color: #2196f3;
