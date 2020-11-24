@@ -49,12 +49,12 @@ nav ul :hover {
 body a {
   text-decoration: none;
 }
-.mail {
-  color: #2196f3;
+.contacts a {
   font-weight: 500;
   font-size: 14px;
   line-height: 16px;
   letter-spacing: 0.02em;
+  color: #757575;
 }
 .contacts a:hover {
   color: #2196f3;
